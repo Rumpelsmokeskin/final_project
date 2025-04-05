@@ -1,0 +1,46 @@
+{
+  "cart": [
+    {
+      "saunaId": 5,
+      "amount": 1,
+      "id": 3
+    },
+    {
+      "saunaId": 1,
+      "amount": 1,
+      "id": 4
+    }
+  ],
+  "saunas": [
+    {
+      "id": 1,
+      "name": "Modular Sauna 1.0",
+      "type": "Indoor",
+      "price": 4500
+    },
+    {
+      "id": 2,
+      "name": "Compact Sauna 2.0",
+      "type": "Outdoor",
+      "price": 3500
+    },
+    {
+      "id": 3,
+      "name": "Luxury Modular Sauna 3.0",
+      "type": "Indoor",
+      "price": 8000
+    },
+    {
+      "id": 4,
+      "name": "Portable Sauna 4.0",
+      "type": "Outdoor",
+      "price": 1200
+    },
+    {
+      "id": 5,
+      "name": "Modern Modular Sauna 5.0",
+      "type": "Indoor",
+      "price": 6000
+    }
+  ]
+}
